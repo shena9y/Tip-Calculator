@@ -1,10 +1,12 @@
-# 💸 Tip Calculator
+﻿# 💸 Tip Calculator
 
 A quick and handy tip calculator built with HTML, CSS, and JavaScript. Enter your bill amount and desired tip percentage, hit calculate, and instantly see the total amount to pay.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🔗 **Live Demo:** [https://shena9y.github.io/Tip-Calculator/](https://shena9y.github.io/Tip-Calculator/)
 
 ## ✨ Features
 
@@ -32,6 +34,8 @@ Tip-Calculator/
 
 ## 🚀 Getting Started
 
+**Try it live:** [https://shena9y.github.io/Tip-Calculator/](https://shena9y.github.io/Tip-Calculator/) — no installation needed!
+
 1. Clone the repository
    ```bash
    git clone https://github.com/shena9y/Tip-Calculator.git
@@ -43,6 +47,9 @@ Tip-Calculator/
 
 ![Tip Calculator Screenshot](screenshot.png)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Tip-Calculator/](https://shena9y.github.io/Tip-Calculator/)
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
